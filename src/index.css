@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'lemon-milk';
+  src: url('fonts/lemon_milk/LEMONMILK-Regular.otf') format('opentype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'lemon-milk';
+  src: url('fonts/lemon_milk/LEMONMILK-RegularItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'lemon-milk';
+  src: url('fonts/lemon_milk/LEMONMILK-Light.otf') format('opentype');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'lemon-milk';
+  src: url('fonts/lemon_milk/LEMONMILK-LightItalic.otf') format('opentype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'lemon-milk';
+  src: url('fonts/lemon_milk/LEMONMILK-Medium.otf') format('opentype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'lemon-milk';
+  src: url('fonts/lemon_milk/LEMONMILK-MediumItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'lemon-milk';
+  src: url('fonts/lemon_milk/LEMONMILK-Bold.otf') format('opentype');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'lemon-milk';
+  src: url('fonts/lemon_milk/LEMONMILK-BoldItalic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'mont';
+  src: url('fonts/mont/Mont-ExtraLightDEMO.otf') format('opentype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'mont';
+  src: url('fonts/mont/Mont-HeavyDEMO.otf') format('opentype');
+  font-weight: 700;
+}
+
+::-webkit-scrollbar {
+  width: 1.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: black;
+}
